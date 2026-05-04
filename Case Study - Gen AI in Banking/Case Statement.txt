@@ -1,0 +1,11 @@
+Your client is a technology company, which has many BFSI customers. They are working on pitching a
+genAI solution to a major bank and has request your help in providing insights on specific questions.
+
+They have given 1 days time (8 hours) to revert and give them a sense on all of the questions below.
+• CIO attitudes towards genAI in banking and priorities when it comes to genAI
+• What is driving the demand for genAI in banking? Are there any challenges than can hold back its
+adoption?
+• Three use cases supported by named banks where we can show which bank adopted genAI for what
+and the outcomes of the same
+• IT vendors who are active in selling genAI solutions and type of solution being sold
+• Executive summary
