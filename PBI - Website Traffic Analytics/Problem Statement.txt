@@ -1,0 +1,20 @@
+We're looking to develop a comprehensive dashboard that will help us track
+key performance indicators for our website. Specifically, we need a dashboard
+that includes:
+
+1. Core Metrics Overview: Total page views, sessions, average bounce rate, and
+average session duration. This will help us understand overall engagement
+trends on our website.
+2. Conversion Insights: A breakdown of converted vs. non-converted sessions,
+which will be crucial for evaluating our marketing and conversion funnel
+effectiveness.
+3. Traffic Source Analysis: Detailed insights into traffic sources (e.g., paid,
+organic, social, direct) so we can understand which channels are performing
+best.
+4. Browser and Device Usage: Breakdown by browser and device type to
+ensure we are providing the best possible experience across platforms.
+5. Target Performance Comparison: Metrics to show how we are tracking
+against targets.
+
+Our target is the previous month of the current month—this will help us
+identify gaps and where we need to improve.
