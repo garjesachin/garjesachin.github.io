@@ -2,7 +2,7 @@
 
 **Strategy & Business Analytics Professional**  
 Market Intelligence | Competitive Strategy | Data-Driven Insights  
-📍 Gurugram | ✉️ garjesachin07@gmail.com | [LinkedIn](#) | [GitHub](https://github.com/garjesachin/garjesachin.github.io)
+📍 Gurugram | ✉️ garjesachin07@gmail.com | [LinkedIn](https://www.linkedin.com/in/sachin-garje-172518124/) | [GitHub](https://github.com/garjesachin/garjesachin.github.io)
 
 ---
 
