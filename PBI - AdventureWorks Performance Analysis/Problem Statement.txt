@@ -1,0 +1,12 @@
+AdventureWorks, a premier global manufacturing company specializing in cycling equipment and accessories, seeks to modernize its data strategy to maintain its competitive edge in the international market. While the company generates a significant volume of raw data across its sales, product, and customer departments, this information currently exists in siloed CSV files, making it difficult for leadership to gain a unified view of organizational health.
+The management team has identified a critical need to move beyond static reporting toward a dynamic, data-driven approach. They are specifically focused on monitoring core KPIs—including revenue, profit, and return rates—while simultaneously gaining the ability to drill down into regional performance and product-specific trends. Furthermore, identifying high-value customer segments is a top priority to ensure marketing resources are allocated effectively.
+
+As a Business Intelligence Analyst, you are tasked with transforming this raw data into a sophisticated relational data model and interactive dashboard suite to answer the following overarching business question:
+"How can AdventureWorks integrate its transactional and customer data to uncover the key drivers of profitability and regional growth, and what actionable insights can be derived to optimize product inventory and customer retention strategies?"
+
+Project Deliverables
+To address this problem, the analysis must focus on:
+Data Transformation: Cleaning and structuring raw CSVs into a usable format.
+Relational Modeling: Creating a "Star Schema" to connect products, customers, and territories to sales events.
+Advanced Analytics: Utilizing DAX to calculate complex measures like Year-over-Year growth and profit margins.
+Visualization: Designing an intuitive dashboard that allows stakeholders to identify trends at a glance.
